@@ -167,15 +167,12 @@ The dataset used is the **Consumer Behavior and Shopping Habits Dataset** — a 
 
 ## 👤 Author
 
-**[Your Name]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile URL]  
-🌐 [Portfolio URL]
+**[Sakshi Sharma]**  
+📧 [sakshishr2703@gmail.com]  
+🔗 [LinkedIn - www.linkedin.com/in/sakshi2703]  
+🌐 [GitHub - https://github.com/SAKSHISHR2703]
 
----
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 
