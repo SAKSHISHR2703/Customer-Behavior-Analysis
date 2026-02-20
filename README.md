@@ -17,17 +17,16 @@ A leading retail company noticed shifts in purchasing patterns across demographi
 ```
 customer-behavior-analysis
 │
+|__Customer_Behavior_Dashboard.zip     # Power BI interactive dashboard
+|
 │── customer_behavior_analysis.ipynb   # Data cleaning & feature engineering
 │
 │── customer_behaviour_queries.sql     # Business queries & insights
-│
-|── Customer_Behavior_Dashboard.pbix   # Power BI interactive dashboard
 │
 |── project_report.pdf                  # Full project report & recommendations
 │
 ├── bussiness problem.pdf              # Bussiness Requirements
 │  
-│
 ├──Customer_behavior_analysis.pptx    # Conclusion Presentation after Data Analysis
 ├──
 └── README.md
