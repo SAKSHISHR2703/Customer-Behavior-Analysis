@@ -2,6 +2,8 @@
 
 > A full-stack data analytics project analyzing consumer shopping behavior to help a retail company improve sales, customer satisfaction, and long-term loyalty.
 
+![Dashboard Preview](https://github.com/SAKSHISHR2703/Customer-Behavior-Analysis/blob/main/Customer%20Behaviour.png)
+
 ---
 
 ## 📌 Business Problem
